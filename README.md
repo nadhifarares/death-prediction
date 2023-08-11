@@ -1,5 +1,3 @@
-Sure, here's a README based on the provided information:
-
 # Reducing Patient Mortality at RS Rares
 
 This project is focused on the goal of decreasing the number of patient deaths at RS Rares, a medical institution. The primary objective of this project is to develop strategies and interventions that will lead to a reduction in patient mortality over the upcoming one-year period.
